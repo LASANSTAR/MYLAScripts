@@ -394,8 +394,7 @@ try:
         d.setdefault("LastUpdatedBy", "SANSTAR1")
         d.setdefault("PurposeofSR", "Cutover Activity")
         l311.append(d)
-        test = "a"
-        print test
+
 
         lIndexes = []
         nCnt = len(l311)
